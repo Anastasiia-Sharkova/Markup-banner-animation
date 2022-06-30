@@ -13,6 +13,20 @@ CSS
 
 
 ## Running the local service
+Node v14.18.2
+
+NPM 6.14.15
+
+
 Open a new bash shell
-npm install or yarn install
-npm run start or yarn start
+
+npm install
+
+### Additional modules may need to be installed
+  npm i react
+
+  npm i @types/react
+
+  npm i dejavu-sans
+
+npm run start
